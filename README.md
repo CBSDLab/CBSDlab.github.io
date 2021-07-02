@@ -1,3 +1,3 @@
 # CSBDlab.github.io
 
-This is the homepage fo rthe4 CBSD lab
+This is the homepage for the CBSD Lab.
