@@ -1,7 +1,1 @@
-# CSBDlab.github.io
-
-This is the homepage for the CBSD Lab. Test 3. 
-
-
-[link to a page](Documentation/Overview.md)
-
+![image](https://user-images.githubusercontent.com/8854922/124339890-66629b80-db7f-11eb-8196-87dd6bac27a5.png)
