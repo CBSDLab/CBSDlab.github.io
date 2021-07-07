@@ -11,6 +11,5 @@ The CHI Center Community Based System Dyanmics (CBSD) Lab develops cutting edge 
 
 ## Contact Us
 
-
-![image](https://user-images.githubusercontent.com/8854922/124619880-030a8f00-de47-11eb-818f-83f4d092068d.png =75)
+<img src="https://user-images.githubusercontent.com/8854922/124619880-030a8f00-de47-11eb-818f-83f4d092068d.png" width="75%">
 
